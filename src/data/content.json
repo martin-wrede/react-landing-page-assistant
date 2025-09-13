@@ -1,0 +1,75 @@
+{
+  "header": {
+    "logoUrl": "/react-landing-page-template/vite.svg",
+    "cta": {
+      "text": "Jetzt starten",
+      "link": "#cta"
+    }
+  },
+  "hero": {
+    "headline": "Erstellen Sie Ihre Traum-Webseite in unter 10 Minuten.",
+    "subheadline": "Go from design to site with Framer, the web builder for creative pros. Ganz ohne Code.",
+    "cta": {
+      "text": "Kostenlos testen",
+      "link": "#cta"
+    },
+    "imageUrl": "/react-landing-page-template/hero.jpg"
+  },
+  "credentials": {
+    "title": "Vertraut von führenden Unternehmen",
+    "logos": [
+      { "name": "Logo 1", "url": "/react-landing-page-template/logo1.png" },
+      { "name": "Logo 2", "url": "/react-landing-page-template/logo2.png" },
+      { "name": "Logo 3", "url": "/react-landing-page-template/logo3.png" },
+      { "name": "Logo 4", "url": "/react-landing-page-template/logo4.png" }
+    ]
+  },
+  "features": {
+    "title": "Warum Sie uns lieben werden",
+    "items": [
+      {
+        "title": "Fast",
+        "description": "You've never made a website this fast before. Mit unserer optimierten Plattform ist Ihre Seite in Sekunden online.",
+        "imageUrl": "/react-landing-page-template/client1.png"
+      },
+      {
+        "title": "Easy",
+        "description": "Works like the canvas tools you're familiar with. Der Drag-and-Drop-Editor macht die Gestaltung zum Kinderspiel.",
+        "imageUrl": "/react-landing-page-template/client2.png"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "items": [
+      {
+        "question": "Was ist in der kostenlosen Version enthalten?",
+        "answer": "Unsere kostenlose Version beinhaltet alle grundlegenden Features, um eine voll funktionsfähige Webseite zu erstellen und zu veröffentlichen."
+      },
+      {
+        "question": "Kann ich jederzeit upgraden?",
+        "answer": "Ja, Sie können Ihren Plan jederzeit direkt in Ihrem Dashboard mit nur wenigen Klicks anpassen."
+      },
+      {
+        "question": "Brauche ich technische Kenntnisse?",
+        "answer": "Nein, absolut nicht. Unsere Plattform ist darauf ausgelegt, dass jeder ohne Programmierkenntnisse professionelle Webseiten erstellen kann."
+      }
+    ]
+  },
+  "ctaSection": {
+    "headline": "Sign up today.",
+    "cta": {
+      "text": "Jetzt kostenlos registrieren",
+      "link": "#",
+      "subtext": "Keine Kreditkarte erforderlich."
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 Your Company. Alle Rechte vorbehalten.",
+    "links": [
+      { "text": "Impressum", "link": "#" },
+      { "text": "Datenschutz", "link": "#" },
+      { "text": "Kontakt", "link": "#" }
+    ]
+  }
+}
