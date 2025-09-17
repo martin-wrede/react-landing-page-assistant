@@ -1,0 +1,116 @@
+{
+  "header": {
+     "logoUrl": "/react-landing-page-assistant/logo.svg",
+    "cta": {
+      "text": "Kostenlose Testversion starten",
+      "link": "#cta"
+    }
+  },
+  "hero": {
+    "headline": "KI-Projektplanungs-Assistent für Solopreneure & Freelancer",
+    "subheadline": "Verwandeln Sie überwältigende Ziele in umsetzbare Projekt-Roadmaps mit unserem intelligenten Terminplanungs-Assistenten. Erhalten Sie automatische Projektaufschlüsselung, KI-Gantt-Chart-Tool und SMS-Motivationserinnerungen, um sich selbst zur Rechenschaft zu ziehen.",
+    "cta1": {
+      "text": "Kostenlosen Plan starten",
+      "link": "#cta1"
+    },
+     "cta2": {
+      "text": "Pro werden - CSV Export",
+      "link": "#cta2"
+    },
+    "imageUrl": "/react-landing-page-assistant/hero.jpg"
+  },
+  "credentials": {
+    "title": "Vertrauen von produktiven Solopreneuren",
+    "logos": [
+      { "name": "Sarah M.", "url": "/react-landing-page-assistant/user-profile-1.png", "quote": "Dieser KI-Aufgabenplaner hat mir geholfen, mein größtes Projekt in machbare Schritte zu unterteilen"  },
+      { "name": "Mike R.", "url": "/react-landing-page-assistant/user-profile-2.png", "quote": "Das beste KI-Produktivitätstool, das ich verwendet habe - der tägliche Aufgabenmanager hält mich fokussiert" },
+      { "name": "Lisa K.", "url": "/react-landing-page-assistant/user-profile-3.png", "quote": "Endlich meine Ziele erreicht mit intelligenter Zielaufschlüsselung und Motivationserinnerungen" },
+      { "name": "David J.", "url": "/react-landing-page-assistant/user-profile-4.png", "quote": "Einfache Projektplanungs-App, die tatsächlich für beschäftigte Freelancer funktioniert" }
+    ]
+  },
+  "features": {
+    "title": "KI-gestützte Funktionen für Projekterfolg",
+    "items": [
+      {
+        "title": "KI-Projektaufschlüsselungs-Tool",
+        "description": "Unser KI-Projektplanungs-Assistent unterteilt komplexe Ziele automatisch in umsetzbare Schritte. Erhalten Sie eine vollständige Projekt-Roadmap mit intelligenter Zielaufschlüsselung und Aufgabenpriorisierungs-KI.",
+        "imageUrl": "/react-landing-page-assistant/feature1.png"
+      },
+      {
+        "title": "Intelligente Terminplanung & Export",
+        "description": "Generieren Sie KI-Gantt-Chart-Zeitleisten, die zu Ihrem Terminplan passen. Exportieren Sie zu CSV-Kalender, importieren Sie Kalenderaufgaben und synchronisieren Sie mit Ihren bevorzugten Produktivitäts-Apps mit unserem KI-Kalender-Generator.",
+        "imageUrl": "/react-landing-page-assistant/feature2.png"
+      },
+      {
+        "title": "KI-Rechenschafts-Partner",
+        "description": "Bleiben Sie motiviert mit SMS-Motivationserinnerungen und E-Mail-Tagesplaner-Updates. Unser KI-Erfolgs-Assistent verfolgt Ihren Fortschritt und sendet personalisierte Ermutigung.",
+        "imageUrl": "/react-landing-page-assistant/feature1.png"
+      }
+    ]
+  },
+   "users": {
+    "title": "Perfekt für ambitionierte Einzelarbeiter",
+    "items": [
+      {
+        "title": "Solopreneure & Unternehmer",
+        "description": "Holen Sie sich Ihren Solopreneur-KI-Assistenten für Geschäftsideen-Organisation, Startup-Roadmap-Planung und Ein-Person-Geschäfts-Projektmanagement. Perfekter Unternehmer-Projektplaner.",
+        "imageUrl": "/react-landing-page-assistant/user3.png"
+      },
+      {
+        "title": "Freelancer & Berater",
+        "description": "Optimieren Sie Kundenprojekte mit unserem Freelancer-Aufgabenmanager. Ideales Freelancer-Produktivitäts-Dashboard für Projektterminplanung und Deadline-Management.",
+        "imageUrl": "/react-landing-page-assistant/user2.jpg"
+      },
+      {
+        "title": "Kreative Fachkräfte",
+        "description": "Organisieren Sie kreative Projektplanung mit KI-Workflow-Planer. Perfekt für Designer, Autoren und Künstler, die strukturierte kreative Projektplanungs-KI benötigen.",
+        "imageUrl": "/react-landing-page-assistant/user1.png"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "question": "Wie funktioniert der KI-Projektplanungs-Assistent?",
+        "answer": "Unsere KI analysiert Ihre Projektziele und erstellt automatisch eine Aufschlüsselung von Aufgaben, Zeitleisten und Meilensteinen. Der KI-Aufgabenplaner berücksichtigt Ihren Terminplan und Ihre Präferenzen, um eine realistische Projekt-Roadmap zu generieren."
+      },
+      {
+        "question": "Kann ich meine Projekt-Zeitleiste in andere Apps exportieren?",
+        "answer": "Ja! Verwenden Sie unsere CSV-Kalender-Export-Funktion, um Ihre KI-generierte Projekt-Zeitleiste in Google Calendar, Outlook oder jede Kalender-App zu importieren. Der KI-Kalender-Generator erstellt perfekt formatierte Dateien."
+      },
+      {
+        "question": "Was macht dies besser als andere Produktivitäts-Tools?",
+        "answer": "Im Gegensatz zu generischen Aufgabenmanagern ist unser Solopreneur-KI-Assistent speziell für unabhängige Arbeiter entwickelt. Sie erhalten KI-Rechenschafts-Partner-Funktionen, intelligente Zielaufschlüsselung und Motivationserinnerungen, die auf Solo-Profis zugeschnitten sind."
+      },
+      {
+        "question": "Wie funktionieren die SMS-Motivationserinnerungen?",
+        "answer": "Unser KI-Erfolgs-Assistent sendet personalisierte Text-Erinnerungen basierend auf Ihrem Projektfortschritt. Erhalten Sie tägliche Motivation, Deadline-Warnungen und Erfolgs-Feiern direkt auf Ihr Telefon geliefert."
+      },
+      {
+        "question": "Ist dies für komplexe Geschäftsprojekte geeignet?",
+        "answer": "Absolut! Unser KI-Gantt-Chart-Tool und automatisierter Projekt-Tracker bewältigen alles von einfachen Aufgaben bis hin zu komplexen mehrstufigen Geschäftsstarts. Perfekt für Startup-Roadmap-Planung und Geschäftsideen-Organisation."
+      }
+    ]
+  },
+  "ctaSection": {
+    "headline": "Starten Sie noch heute Ihre KI-gestützte Projektplanung",
+    "subtext": "Schließen Sie sich Tausenden von Solopreneuren an, die unseren KI-Projektplanungs-Assistenten verwenden, um ihre größten Ziele zu erreichen.",
+    "cta1": {
+      "text": "Kostenlose Testversion starten",
+      "link": "#cta1"
+    },
+     "cta2": {
+      "text": "Pro-Funktionen ansehen",
+      "link": "#cta2"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 BeautifulmindAI. Alle Rechte vorbehalten.",
+    "links": [
+      { "text": "Datenschutzrichtlinie", "link": "#" },
+      { "text": "Nutzungsbedingungen", "link": "#" },
+      { "text": "Support kontaktieren", "link": "#" }
+    ]
+  }
+}
