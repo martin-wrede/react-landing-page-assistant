@@ -14,14 +14,18 @@ body {
   background: #f8f9fa;
   color: var(--text-color);
   line-height: 1.6;
+  display: flex;
+  justify-content: center;
 }
 
 .App {
-  max-width: var(--container-width);
+  max-width: 1050px;
+  width: 100%;
   margin: 0 auto;
   background: #fff;
   box-shadow: 0 0 20px rgba(0,0,0,0.1);
   min-height: 100vh;
+  position: relative;
 }
 
 .container {
